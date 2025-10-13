@@ -125,7 +125,7 @@ module Terraspace
       end
 
       def subcommand?
-        !!caller.detect { |l| l.include?('in subcommand') }
+        !!caller.detect { |l| l.match?('in .*subcommand') }
       end
 
       # Override command_help to include the description at the top of the
