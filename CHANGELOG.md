@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 This project *loosely tries* to adhere to [Semantic Versioning](http://semver.org/), even before v1.0.
 
+## [2.2.19] - 2025-10-13
+- [#354](https://github.com/boltops-tools/terraspace/pull/354) feat: add support for exit code in terraspace validate command
+- [#370](https://github.com/boltops-tools/terraspace/pull/370) Fix 'new project' command for Ruby 3.4.x versions
+
 ## [2.2.18] - 2025-07-21
 - [#351](https://github.com/boltops-tools/terraspace/pull/351) Fix dead links in README.me
 - [#365](https://github.com/boltops-tools/terraspace/pull/365) RFC: Support `json` format with `graph` command
