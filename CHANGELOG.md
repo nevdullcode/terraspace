@@ -3,6 +3,9 @@
 All notable changes to this project will be documented in this file.
 This project *loosely tries* to adhere to [Semantic Versioning](http://semver.org/), even before v1.0.
 
+## [2.2.20] - 2025-10-13
+- [#354](https://github.com/boltops-tools/terraspace/pull/354) Revert feat: add support for exit code in terraspace validate command
+
 ## [2.2.19] - 2025-10-13
 - [#354](https://github.com/boltops-tools/terraspace/pull/354) feat: add support for exit code in terraspace validate command
 - [#370](https://github.com/boltops-tools/terraspace/pull/370) Fix 'new project' command for Ruby 3.4.x versions
